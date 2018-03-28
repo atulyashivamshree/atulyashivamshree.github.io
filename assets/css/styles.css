@@ -52,12 +52,18 @@ a.nav-item:hover {
 }
 
 .social-container img{
-	max-width:100%;
+	max-width:20%;
 	max-height:175px;
 	margin-bottom:15px;
 }
 
 .project-figure {
+	margin: 0 auto 1rem auto;
+	max-height: 90%;
+	max-width: 90%;
+}
+
+.project-youtube {
 	margin: 0 auto 1rem auto;
 	max-height: 90%;
 	max-width: 80%;
@@ -69,7 +75,7 @@ a.nav-item:hover {
 
 .box {
 	background-color: transparent;
-	border: 2px solid rgba(7, 59, 79, 0.5);
+	border: 4px solid rgba(7, 59, 79, 0.5);
 }
 
 .title {
